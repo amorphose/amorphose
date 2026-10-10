@@ -1,0 +1,38 @@
+name: Top languages
+
+# Rebuilds assets/top-languages.svg from every repository I own.
+# Most of them are private, so this needs a fine-grained token with read-only
+# "Contents" access to all my repositories, saved as the PROFILE_STATS_TOKEN
+# repository secret. Without it the job skips and the committed card stays.
+
+on:
+  schedule:
+    - cron: "23 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Count languages
+        env:
+          GH_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "::notice::PROFILE_STATS_TOKEN is not set; keeping the committed card."
+            exit 0
+          fi
+          python scripts/top_languages.py --clone
+
+      - name: Commit if changed
+        run: |
+          git diff --quiet assets/top-languages.svg && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Refresh top languages card"
+          git push
