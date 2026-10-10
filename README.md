@@ -79,6 +79,14 @@ light-years, with an interactive chart and a dedicated page for every superclust
     <td align="center"><sub>The basin, galaxy groups by supercluster</sub></td>
     <td align="center"><sub>Hydra, one of four supercluster lobes</sub></td>
   </tr>
+  <tr>
+    <td width="50%"><a href="https://aperturecosmology.com/laniakea/centaurus/#norma-complex"><img src="assets/lfg-norma.jpg" alt="The Norma Complex section of the Centaurus Supercluster page, showing the Jellyfish Galaxy ESO 137-001"/></a></td>
+    <td width="50%"><a href="https://aperturecosmology.com/laniakea/"><img src="assets/lfg-gallery.jpg" alt="The Field Guide Gallery, a grid of galaxy images grouped by supercluster"/></a></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>The Norma Complex, home of the Great Attractor</sub></td>
+    <td align="center"><sub>The Field Guide Gallery</sub></td>
+  </tr>
 </table>
 
 ## 🛰️ Vera Rubin Analytics Bot
