@@ -138,6 +138,8 @@ Explorer. Most new finds now come from the Vera C. Rubin Observatory. This is th
 
 <details><summary>9 more on the watchlist</summary>
 
+<div align="center">
+
 | Object | Status | Radius (km) | H | a (AU) | Found | By |
 |---|---|--:|--:|--:|---|---|
 | **2025 MD350** | ⚪ watched | ~183 | 5.41 | 61.1 | 2025-06-21 | Rubin Observatory |
@@ -150,6 +152,7 @@ Explorer. Most new finds now come from the Vera C. Rubin Observatory. This is th
 | **2025 NK190** | ⚪ watched | ~155 | 5.77 | 46.2 | 2025-07-02 | Rubin Observatory |
 | **2025 NX193** | ⚪ watched | ~152 | 5.82 | 64.4 | 2025-07-01 | Rubin Observatory |
 
+</div>
 </details>
 
 <sub>14 objects tracked, 11 of them discovered by Rubin Observatory. ~ marks a size estimated from brightness (H) at albedo 0.09. Last change 06 Oct 2026.</sub>

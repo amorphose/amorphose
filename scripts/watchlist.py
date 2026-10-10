@@ -75,7 +75,7 @@ def render(text: str) -> str:
     out = '<div align="center">\n\n' + head + "".join(line(r) for r in shown) + "\n</div>\n"
     if folded:
         out += (f"\n<details><summary>{len(folded)} more on the watchlist</summary>\n\n"
-                + head + "".join(line(r) for r in folded) + "\n</details>\n")
+                + '<div align="center">\n\n' + head + "".join(line(r) for r in folded) + "\n</div>\n</details>\n")
     out += (f"\n<sub>{len(rows)} objects tracked, {rubin} of them discovered by Rubin Observatory. "
             f"~ marks a size estimated from brightness (H) at albedo 0.09. "
             f"Last change {updated:%d %b %Y}.</sub>\n")
