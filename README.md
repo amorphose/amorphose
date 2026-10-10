@@ -8,7 +8,8 @@
   <a href="https://aperturecosmology.com/laniakea/"><img src="assets/badge-lfg.svg" alt="Laniakea Field Guide"/></a>
 </p>
 
-I build interactive maps of the universe, the small tools that keep them current, and a
+I build [interactive maps](#-solar-system-explorer) of the universe, the
+[small tools](#%EF%B8%8F-vera-rubin-analytics-bot) that keep them current, and a
 philosophical framework that tries to explain who is looking. Most of it lives at
 **[aperturecosmology.com](https://aperturecosmology.com/)**. My day job is medical billing, where I
 write tools like [OWCP AutoFill](#-owcp-autofill) to cut down on manual claim entry. I'm always
