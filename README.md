@@ -50,10 +50,12 @@ The portal asks you to **choose your path**:
 
 An atlas of **2,012 objects** drawn on their real orbits: planets, dwarf planets, 537 moons,
 near-Earth objects, the asteroid belt, Trojans, centaurs, the Kuiper belt, the scattered and
-detached discs, comets and all three known interstellar visitors. Zoom from the inner planets out
-to the detached disc, click any world to inspect its orbital elements, drop into a planet's moon
-system, or switch to a sortable, searchable table of the whole database. Everything is drawn on a
-plain 2D canvas with no libraries.
+detached discs, comets and all three known interstellar visitors. The atlas keeps itself current:
+a daily GitHub Actions job parses the IAU's WGSBN Bulletin and swaps provisional designations for
+official names as they're announced. Zoom from the inner planets out to the detached disc, click
+any world to inspect its orbital elements, drop into a planet's moon system, or switch to a
+sortable, searchable table of the whole database. Everything is drawn on a plain 2D canvas with no
+libraries.
 
 <table>
   <tr>
