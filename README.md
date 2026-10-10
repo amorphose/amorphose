@@ -14,11 +14,24 @@ I build interactive maps of the universe, the small tools that keep them current
 philosophical framework that tries to explain who is looking. Most of it lives at
 **[aperturecosmology.com](https://aperturecosmology.com/)**.
 
+---
+
+## 📊 Languages and tools
+
 <p align="center">
   <img src="assets/top-languages.svg" alt="Most used languages across my repositories"/>
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-0d0d10?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-0d0d10?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS-0d0d10?style=flat-square&logo=css&logoColor=663399" alt="CSS"/>
+  <img src="https://img.shields.io/badge/Python-0d0d10?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-0d0d10?style=flat-square&logo=cloudflareworkers&logoColor=F38020" alt="Cloudflare Workers"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-0d0d10?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions"/>
+</p>
+
+<p align="center"><sub>Language card counts inline &lt;script&gt; and &lt;style&gt; as JavaScript and CSS, and skips vendored data. Refreshed weekly by <a href=".github/workflows/refresh-profile.yml">a workflow</a> in this repo.</sub></p>
 
 ## 🌌 Aperture Cosmology
 
@@ -44,14 +57,6 @@ The portal asks you to **choose your path**:
     <td align="center"><sub>Short film · <i>The Endosymbiotic Horizon</i></sub></td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-0d0d10?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-0d0d10?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS-0d0d10?style=flat-square&logo=css&logoColor=663399" alt="CSS"/>
-  <img src="https://img.shields.io/badge/Cloudflare_Workers-0d0d10?style=flat-square&logo=cloudflareworkers&logoColor=F38020" alt="Cloudflare Workers"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-0d0d10?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions"/>
-</p>
 
 ## 🪐 Solar System Explorer
 
