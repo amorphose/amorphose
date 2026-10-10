@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://aperturecosmology.com/"><img src="assets/badge-path.svg" alt="Choose Your Path" height="30"/></a>
-  <a href="https://aperturecosmology.com/solar-system/"><img src="assets/badge-sse.svg" alt="Solar System Explorer" height="30"/></a>
-  <a href="https://aperturecosmology.com/laniakea/"><img src="assets/badge-lfg.svg" alt="Laniakea Field Guide" height="30"/></a>
+  <a href="https://aperturecosmology.com/"><img src="assets/badge-path.svg" alt="Choose Your Path"/></a>
+  <a href="https://aperturecosmology.com/solar-system/"><img src="assets/badge-sse.svg" alt="Solar System Explorer"/></a>
+  <a href="https://aperturecosmology.com/laniakea/"><img src="assets/badge-lfg.svg" alt="Laniakea Field Guide"/></a>
 </p>
 
 I build interactive maps of the universe, the small tools that keep them current, and a
@@ -44,11 +44,11 @@ plain 2D canvas with no libraries.
 
 <table>
   <tr>
-    <td width="50%"><img src="assets/sse-saturn.jpg" alt="Saturn's moon system with the object detail panel open"/></td>
+    <td width="50%"><img src="assets/sse-earth.jpg" alt="Earth's satellite view with the detail panel and its Wikipedia summary"/></td>
     <td width="50%"><img src="assets/sse-scattered-disc.jpg" alt="Scattered Disc view: the Kuiper belt ring wrapped in the pink orbits of the scattered disc"/></td>
   </tr>
   <tr>
-    <td align="center"><sub>Saturn's moons and the detail panel</sub></td>
+    <td align="center"><sub>Satellite view and the detail panel</sub></td>
     <td align="center"><sub>Out to the Scattered Disc</sub></td>
   </tr>
 </table>
