@@ -122,6 +122,8 @@ Explorer. Most new finds now come from the Vera C. Rubin Observatory. This is th
 
 ## 🩺 OWCP AutoFill
 
+<img src="assets/owcp-pipeline.svg" alt="OWCP AutoFill: a batch of CMS-1500 claims is parsed and reviewed in the desktop app, then typed into the OWCP portal" width="100%"/>
+
 A desktop tool that turns a batch of CMS-1500 (HCFA) PDFs into filled OWCP portal bill entries.
 It parses each claim locally, lets you review it, then fills the form for a manual submit.
 No patient data is transmitted, stored or logged.
