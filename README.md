@@ -73,18 +73,18 @@ light-years, with an interactive chart and a dedicated page for every superclust
 <table>
   <tr>
     <td width="50%"><a href="https://aperturecosmology.com/laniakea/"><img src="assets/lfg-basin.jpg" alt="The Laniakea Basin elevation view, galaxy groups coloured by supercluster"/></a></td>
-    <td width="50%"><a href="https://aperturecosmology.com/laniakea/hydra/"><img src="assets/lfg-hydra.jpg" alt="The Hydra Supercluster section with the Antlia Cluster"/></a></td>
+    <td width="50%"><a href="https://aperturecosmology.com/laniakea/virgo/"><img src="assets/lfg-virgo.jpg" alt="The Virgo Supercluster section with the Virgo Cluster"/></a></td>
   </tr>
   <tr>
     <td align="center"><sub>The basin, galaxy groups by supercluster</sub></td>
-    <td align="center"><sub>Hydra, one of four supercluster lobes</sub></td>
+    <td align="center"><sub>Virgo, one of four supercluster lobes</sub></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://aperturecosmology.com/laniakea/centaurus/#norma-complex"><img src="assets/lfg-norma.jpg" alt="The Norma Complex section of the Centaurus Supercluster page, showing the Jellyfish Galaxy ESO 137-001"/></a></td>
+    <td width="50%"><a href="https://aperturecosmology.com/laniakea/virgo/#local-sheet"><img src="assets/lfg-local-sheet.jpg" alt="The Local Sheet section of the Virgo Supercluster page, with the Andromeda Galaxy and the start of the article"/></a></td>
     <td width="50%"><a href="https://aperturecosmology.com/laniakea/"><img src="assets/lfg-gallery.jpg" alt="The Field Guide Gallery, a grid of galaxy images grouped by supercluster"/></a></td>
   </tr>
   <tr>
-    <td align="center"><sub>The Norma Complex, home of the Great Attractor</sub></td>
+    <td align="center"><sub>Local Sheet, home of the Milky Way</sub></td>
     <td align="center"><sub>The Field Guide Gallery</sub></td>
   </tr>
 </table>
