@@ -80,7 +80,7 @@ on a plain 2D canvas with no libraries.
 
 A field guide to our home supercluster, built on my paper
 **[A Hierarchical Framework for Organizing the Laniakea Basin](https://aperturecosmology.com/laniakea/downloads/Bianchini_2026_Laniakea_Framework.pdf)**
-(Bianchini, 2026; 86 peer-reviewed references including the Cosmicflows program). It organizes
+(Bianchini, 2026; 58 peer-reviewed references including the Cosmicflows program). It organizes
 the local universe by cosmic-web topology rather than distance or brightness:
 **4 superclusters · 27 structural regions · 128 galaxy groups**, across roughly 500 million
 light-years, with an interactive chart and a dedicated page for every supercluster.
