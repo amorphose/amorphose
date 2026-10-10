@@ -82,32 +82,53 @@ light-years, with an interactive chart and a dedicated page for every superclust
   </tr>
 </table>
 
-## 🛠️ Also building
+## 🛰️ Vera Rubin Analytics Bot
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛰️ Vera Rubin Analytics Bot</h3>
-      A daily GitHub Actions job that watches the Minor Planet Center's TNO and Centaur lists for
-      new possible dwarf planets, cross-checks sizes against JPL SBDB and Johnston's Archive, and
-      opens an alert when something might be 190 km in radius or more. Its findings feed the
-      Solar System Explorer.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-0d0d10?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-0d0d10?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🩺 OWCP AutoFill</h3>
-      A desktop tool that turns a batch of CMS-1500 (HCFA) PDFs into filled OWCP portal bill
-      entries. It parses each claim locally, lets you review it, then fills the form for a manual
-      submit. No patient data is transmitted, stored or logged.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-0d0d10?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
-      <img src="https://img.shields.io/badge/Selenium-0d0d10?style=flat-square&logo=selenium&logoColor=43B02A" alt="Selenium"/>
-      <img src="https://img.shields.io/badge/Tkinter-0d0d10?style=flat-square&logo=python&logoColor=c9a84c" alt="Tkinter"/>
-    </td>
-  </tr>
-</table>
+A daily GitHub Actions job that watches the Minor Planet Center's TNO and Centaur lists for new
+possible dwarf planets, cross-checks sizes against JPL SBDB and Johnston's Archive, and opens an
+alert when something might be 190 km in radius or more. Its findings feed the Solar System
+Explorer. Most new finds now come from the Vera C. Rubin Observatory. This is the live watchlist:
+
+<!-- watchlist:start -->
+| Object | Status | Radius (km) | H | a (AU) | Found | By |
+|---|---|--:|--:|--:|---|---|
+| **2025 NE552** | 🟡 likely | ~302 | 4.33 | 53.5 | 2025-07-04 | Rubin Observatory |
+| **2025 EA16** | 🟡 likely | ~273 | 4.55 | 40.6 | 2025-03-10 | DECam, Cerro Tololo |
+| **2025 MZ348** | 🟡 likely | ~258 | 4.67 | 47.8 | 2025-06-30 | Rubin Observatory |
+| **2025 MT387** | 🟡 likely | ~231 | 4.91 | 54.9 | 2025-06-21 | Rubin Observatory |
+| **2025 MB349** | 🟡 likely | ~201 | 5.21 | 50.2 | 2025-06-21 | Rubin Observatory |
+
+<details><summary>9 more on the watchlist</summary>
+
+| Object | Status | Radius (km) | H | a (AU) | Found | By |
+|---|---|--:|--:|--:|---|---|
+| **2025 MD350** | ⚪ watched | ~183 | 5.41 | 61.1 | 2025-06-21 | Rubin Observatory |
+| **2025 UP145** | ⚪ watched | ~180 | 5.45 | 56.0 | 2025-10-29 | Magellan-Baade Telescope |
+| **2025 NY190** | ⚪ watched | ~180 | 5.45 | 47.7 | 2025-07-02 | Rubin Observatory |
+| **2015 HT198** | ⚪ watched | ~174 | 5.53 | 43.5 | 2015-04-18 | DECam, Cerro Tololo |
+| **2025 OF345** | ⚪ watched | ~166 | 5.62 | 43.0 | 2025-07-18 | Rubin Observatory |
+| **2025 MJ352** | ⚪ watched | ~165 | 5.64 | 46.1 | 2025-06-21 | Rubin Observatory |
+| **2025 NE189** | ⚪ watched | ~157 | 5.75 | 138.5 | 2025-07-02 | Rubin Observatory |
+| **2025 NK190** | ⚪ watched | ~155 | 5.77 | 46.2 | 2025-07-02 | Rubin Observatory |
+| **2025 NX193** | ⚪ watched | ~152 | 5.82 | 64.4 | 2025-07-01 | Rubin Observatory |
+
+</details>
+
+<sub>14 objects tracked, 11 of them discovered by Rubin Observatory. ~ marks a size estimated from brightness (H) at albedo 0.09. Last change 06 Oct 2026.</sub>
+<!-- watchlist:end -->
+
+<img src="https://img.shields.io/badge/Python-0d0d10?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-0d0d10?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions"/>
+
+## 🩺 OWCP AutoFill
+
+A desktop tool that turns a batch of CMS-1500 (HCFA) PDFs into filled OWCP portal bill entries.
+It parses each claim locally, lets you review it, then fills the form for a manual submit.
+No patient data is transmitted, stored or logged.
+
+<img src="https://img.shields.io/badge/Python-0d0d10?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
+<img src="https://img.shields.io/badge/Selenium-0d0d10?style=flat-square&logo=selenium&logoColor=43B02A" alt="Selenium"/>
+<img src="https://img.shields.io/badge/Tkinter-0d0d10?style=flat-square&logo=python&logoColor=c9a84c" alt="Tkinter"/>
 
 ## 📊 Languages and tools
 
@@ -124,4 +145,4 @@ light-years, with an interactive chart and a dedicated page for every superclust
   <img src="https://img.shields.io/badge/GitHub_Actions-0d0d10?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions"/>
 </p>
 
-<p align="center"><sub>Language card counts inline &lt;script&gt; and &lt;style&gt; as JavaScript and CSS, and skips vendored data. Refreshed weekly by <a href=".github/workflows/top-languages.yml">a workflow</a> in this repo.</sub></p>
+<p align="center"><sub>Language card counts inline &lt;script&gt; and &lt;style&gt; as JavaScript and CSS, and skips vendored data. Refreshed weekly by <a href=".github/workflows/refresh-profile.yml">a workflow</a> in this repo.</sub></p>
