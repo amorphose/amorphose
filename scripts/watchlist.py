@@ -70,7 +70,12 @@ def render(text: str) -> str:
                       f"{num(r['a_au']):.1f} | {r['discovery_date']} | {site(r)} |\n")
     updated = max(date.fromisoformat(r["last_change"]) for r in rows)
     rubin = sum("Rubin" in r["discoverers"] for r in rows)
-    out = head + "".join(line(r) for r in rows)
+    shown = [r for r in rows if r["state"] == "candidate" or r["tier"] == "likely"]
+    folded = [r for r in rows if r not in shown]
+    out = '<div align="center">\n\n' + head + "".join(line(r) for r in shown) + "\n</div>\n"
+    if folded:
+        out += (f"\n<details><summary>{len(folded)} more on the watchlist</summary>\n\n"
+                + head + "".join(line(r) for r in folded) + "\n</details>\n")
     out += (f"\n<sub>{len(rows)} objects tracked, {rubin} of them discovered by Rubin Observatory. "
             f"~ marks a size estimated from brightness (H) at albedo 0.09. "
             f"Last change {updated:%d %b %Y}.</sub>\n")

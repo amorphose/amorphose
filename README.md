@@ -124,6 +124,8 @@ alert when something might be 190 km in radius or more. Its findings feed the So
 Explorer. Most new finds now come from the Vera C. Rubin Observatory. This is the live watchlist:
 
 <!-- watchlist:start -->
+<div align="center">
+
 | Object | Status | Radius (km) | H | a (AU) | Found | By |
 |---|---|--:|--:|--:|---|---|
 | **2025 NE552** | 🟡 likely | ~302 | 4.33 | 53.5 | 2025-07-04 | Rubin Observatory |
@@ -131,6 +133,13 @@ Explorer. Most new finds now come from the Vera C. Rubin Observatory. This is th
 | **2025 MZ348** | 🟡 likely | ~258 | 4.67 | 47.8 | 2025-06-30 | Rubin Observatory |
 | **2025 MT387** | 🟡 likely | ~231 | 4.91 | 54.9 | 2025-06-21 | Rubin Observatory |
 | **2025 MB349** | 🟡 likely | ~201 | 5.21 | 50.2 | 2025-06-21 | Rubin Observatory |
+
+</div>
+
+<details><summary>9 more on the watchlist</summary>
+
+| Object | Status | Radius (km) | H | a (AU) | Found | By |
+|---|---|--:|--:|--:|---|---|
 | **2025 MD350** | ⚪ watched | ~183 | 5.41 | 61.1 | 2025-06-21 | Rubin Observatory |
 | **2025 UP145** | ⚪ watched | ~180 | 5.45 | 56.0 | 2025-10-29 | Magellan-Baade Telescope |
 | **2025 NY190** | ⚪ watched | ~180 | 5.45 | 47.7 | 2025-07-02 | Rubin Observatory |
@@ -140,6 +149,8 @@ Explorer. Most new finds now come from the Vera C. Rubin Observatory. This is th
 | **2025 NE189** | ⚪ watched | ~157 | 5.75 | 138.5 | 2025-07-02 | Rubin Observatory |
 | **2025 NK190** | ⚪ watched | ~155 | 5.77 | 46.2 | 2025-07-02 | Rubin Observatory |
 | **2025 NX193** | ⚪ watched | ~152 | 5.82 | 64.4 | 2025-07-01 | Rubin Observatory |
+
+</details>
 
 <sub>14 objects tracked, 11 of them discovered by Rubin Observatory. ~ marks a size estimated from brightness (H) at albedo 0.09. Last change 06 Oct 2026.</sub>
 <!-- watchlist:end -->
