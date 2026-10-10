@@ -117,8 +117,10 @@ Explorer. Most new finds now come from the Vera C. Rubin Observatory. This is th
 <sub>14 objects tracked, 11 of them discovered by Rubin Observatory. ~ marks a size estimated from brightness (H) at albedo 0.09. Last change 06 Oct 2026.</sub>
 <!-- watchlist:end -->
 
-<img src="https://img.shields.io/badge/Python-0d0d10?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-0d0d10?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0d0d10?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-0d0d10?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions"/>
+</p>
 
 ## 🩺 OWCP AutoFill
 
@@ -128,9 +130,11 @@ A desktop tool that turns a batch of CMS-1500 (HCFA) PDFs into filled OWCP porta
 It parses each claim locally, lets you review it, then fills the form for a manual submit.
 No patient data is transmitted, stored or logged.
 
-<img src="https://img.shields.io/badge/Python-0d0d10?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
-<img src="https://img.shields.io/badge/Selenium-0d0d10?style=flat-square&logo=selenium&logoColor=43B02A" alt="Selenium"/>
-<img src="https://img.shields.io/badge/Tkinter-0d0d10?style=flat-square&logo=python&logoColor=c9a84c" alt="Tkinter"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0d0d10?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/badge/Selenium-0d0d10?style=flat-square&logo=selenium&logoColor=43B02A" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/Tkinter-0d0d10?style=flat-square&logo=python&logoColor=c9a84c" alt="Tkinter"/>
+</p>
 
 ## 📊 Languages and tools
 
