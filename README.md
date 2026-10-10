@@ -44,6 +44,14 @@ plain 2D canvas with no libraries.
 
 <table>
   <tr>
+    <td width="50%"><img src="assets/sse-table-earth.jpg" alt="Table view of the database with Earth's detail panel and its Wikipedia summary"/></td>
+    <td width="50%"><img src="assets/sse-outer-system.jpg" alt="Outer view: the Kuiper belt as a blue ring of orbits around the giant planets"/></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Table view and the detail panel</sub></td>
+    <td align="center"><sub>Out to Neptune and the Kuiper belt</sub></td>
+  </tr>
+  <tr>
     <td width="50%"><img src="assets/sse-mars.jpg" alt="Mars's satellite view with Phobos selected in the detail panel and its Wikipedia summary"/></td>
     <td width="50%"><img src="assets/sse-scattered-disc.jpg" alt="Scattered Disc view: the Kuiper belt ring wrapped in the pink orbits of the scattered disc"/></td>
   </tr>
