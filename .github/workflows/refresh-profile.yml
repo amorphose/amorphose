@@ -1,0 +1,46 @@
+name: Refresh profile
+
+# Keeps two generated parts of the profile current:
+#   * the dwarf-planet watchlist in README.md, from Vera-Rubin-Analytics-Bot's
+#     candidates.csv (daily, after the bot's 07:17 UTC scan)
+#   * assets/top-languages.svg, from every repository I own (Mondays, or when
+#     started by hand)
+# Those repositories are private, so this needs a fine-grained token with
+# read-only "Contents" access to all my repositories, saved as the
+# PROFILE_STATS_TOKEN repository secret. Without it the job skips and the
+# committed versions stay.
+
+on:
+  schedule:
+    - cron: "5 8 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Refresh
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "::notice::PROFILE_STATS_TOKEN is not set; keeping the committed README and card."
+            exit 0
+          fi
+          python scripts/watchlist.py --fetch
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "$(date -u +%u)" = "1" ]; then
+            python scripts/top_languages.py --clone
+          fi
+
+      - name: Commit if changed
+        run: |
+          git diff --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Refresh profile"
+          git push
