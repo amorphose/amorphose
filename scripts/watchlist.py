@@ -21,7 +21,6 @@ from pathlib import Path
 
 README = Path(__file__).resolve().parent.parent / "README.md"
 SOURCE = "https://api.github.com/repos/amorphose/Vera-Rubin-Analytics-Bot/contents/candidates.csv"
-SHOW_OPEN = 5  # rows shown before the rest fold into <details>
 STATE_ORDER = {"candidate": 0, "watched": 1}
 TIER_ORDER = {"likely": 0, "watched": 1}
 
@@ -71,10 +70,7 @@ def render(text: str) -> str:
                       f"{num(r['a_au']):.1f} | {r['discovery_date']} | {site(r)} |\n")
     updated = max(date.fromisoformat(r["last_change"]) for r in rows)
     rubin = sum("Rubin" in r["discoverers"] for r in rows)
-    out = head + "".join(line(r) for r in rows[:SHOW_OPEN])
-    if len(rows) > SHOW_OPEN:
-        out += (f"\n<details><summary>{len(rows) - SHOW_OPEN} more on the watchlist</summary>\n\n"
-                + head + "".join(line(r) for r in rows[SHOW_OPEN:]) + "\n</details>\n")
+    out = head + "".join(line(r) for r in rows)
     out += (f"\n<sub>{len(rows)} objects tracked, {rubin} of them discovered by Rubin Observatory. "
             f"~ marks a size estimated from brightness (H) at albedo 0.09. "
             f"Last change {updated:%d %b %Y}.</sub>\n")
