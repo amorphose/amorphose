@@ -28,12 +28,22 @@ An independent research and creative project that approaches reality from three 
 The portal asks you to **choose your path**:
 
 - **Metaphysics** · a formal ontology of consciousness experiencing a static, higher-dimensional
-  structure through localized apertures, developed across five connected essays.
+  structure through localized apertures, developed across five connected essays, with an
+  eight-episode podcast and a short film alongside them.
 - **Astrophysics** · interactive scientific references, including the two projects below.
 - **Psychophysics** · experiential instruments: the *Aperture Dial* (binaural and isochronic
   synthesis with kaleidoscopic visuals) and a *Ganzflicker* simulator.
 
-<sub>Standalone HTML pages · vanilla JS · Cloudflare Workers + D1</sub>
+<table>
+  <tr>
+    <td width="50%"><a href="https://aperturecosmology.com/#ep1"><img src="assets/ac-podcast.jpg" alt="A translucent figure walking through a web of glowing filaments toward a smaller figure"/></a></td>
+    <td width="50%"><a href="https://www.youtube.com/watch?v=YEd3X3QK2xg"><img src="assets/ac-film.jpg" alt="A head in silhouette filled with a violet nebula, set against bright rings of light"/></a></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Podcast · <i>The Aperture Transmissions</i></sub></td>
+    <td align="center"><sub>Short film · <i>The Endosymbiotic Horizon</i></sub></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-0d0d10?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
