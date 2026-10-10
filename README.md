@@ -44,7 +44,7 @@ plain 2D canvas with no libraries.
 
 <table>
   <tr>
-    <td width="50%"><img src="assets/sse-earth.jpg" alt="Earth's satellite view with the detail panel and its Wikipedia summary"/></td>
+    <td width="50%"><img src="assets/sse-mars.jpg" alt="Mars's satellite view with Phobos selected in the detail panel and its Wikipedia summary"/></td>
     <td width="50%"><img src="assets/sse-scattered-disc.jpg" alt="Scattered Disc view: the Kuiper belt ring wrapped in the pink orbits of the scattered disc"/></td>
   </tr>
   <tr>
