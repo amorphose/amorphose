@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://aperturecosmology.com/"><img src="https://img.shields.io/badge/aperturecosmology.com-0d0d10?style=flat-square" alt="aperturecosmology.com"/></a>
-  <a href="https://aperturecosmology.com/solar-system/"><img src="https://img.shields.io/badge/Solar_System_Explorer-0d0d10?style=flat-square" alt="Solar System Explorer"/></a>
-  <a href="https://aperturecosmology.com/laniakea/"><img src="https://img.shields.io/badge/Laniakea_Field_Guide-0d0d10?style=flat-square" alt="Laniakea Field Guide"/></a>
+  <a href="https://aperturecosmology.com/"><img src="assets/badge-path.svg" alt="Choose Your Path" height="30"/></a>
+  <a href="https://aperturecosmology.com/solar-system/"><img src="assets/badge-sse.svg" alt="Solar System Explorer" height="30"/></a>
+  <a href="https://aperturecosmology.com/laniakea/"><img src="assets/badge-lfg.svg" alt="Laniakea Field Guide" height="30"/></a>
 </p>
 
 I build interactive maps of the universe, the small tools that keep them current, and a
@@ -16,29 +16,20 @@ philosophical framework that tries to explain who is looking. Most of it lives a
 
 ---
 
-## 🔭 Aperture Cosmology
+## 🌌 Aperture Cosmology
 
-<table>
-  <tr>
-    <td width="42%">
-      <a href="https://aperturecosmology.com/"><img src="assets/aperture-cosmology-portal.jpg" alt="The Aperture Cosmology portal: three hyperbolic paths labelled metaphysics, astrophysics and psychophysics"/></a>
-    </td>
-    <td>
-      An independent research and creative project that approaches reality from three directions.
-      The portal asks you to <b>choose your path</b>:
-      <br/><br/>
-      <b>Metaphysics</b> · a formal ontology of consciousness experiencing a static, higher-dimensional
-      structure through localized apertures, developed across five connected essays.
-      <br/><br/>
-      <b>Astrophysics</b> · interactive scientific references, including the two projects below.
-      <br/><br/>
-      <b>Psychophysics</b> · experiential instruments: the <i>Aperture Dial</i> (binaural and isochronic
-      synthesis with kaleidoscopic visuals) and a <i>Ganzflicker</i> simulator.
-      <br/><br/>
-      <sub>Standalone HTML pages · vanilla JS · Cloudflare Workers + D1</sub>
-    </td>
-  </tr>
-</table>
+<a href="https://aperturecosmology.com/"><img src="assets/aperture-cosmology-banner.jpg" alt="Choose Your Path: three hyperbolic grids in blue, red and violet meeting at a point" width="100%"/></a>
+
+An independent research and creative project that approaches reality from three directions.
+The portal asks you to **choose your path**:
+
+- **Metaphysics** · a formal ontology of consciousness experiencing a static, higher-dimensional
+  structure through localized apertures, developed across five connected essays.
+- **Astrophysics** · interactive scientific references, including the two projects below.
+- **Psychophysics** · experiential instruments: the *Aperture Dial* (binaural and isochronic
+  synthesis with kaleidoscopic visuals) and a *Ganzflicker* simulator.
+
+<sub>Standalone HTML pages · vanilla JS · Cloudflare Workers + D1</sub>
 
 ## 🪐 Solar System Explorer
 
@@ -53,16 +44,16 @@ plain 2D canvas with no libraries.
 
 <table>
   <tr>
-    <td width="50%"><img src="assets/sse-outer-system.jpg" alt="Outer view: the Kuiper belt as a blue ring of orbits around the giant planets"/></td>
     <td width="50%"><img src="assets/sse-saturn.jpg" alt="Saturn's moon system with the object detail panel open"/></td>
+    <td width="50%"><img src="assets/sse-scattered-disc.jpg" alt="Scattered Disc view: the Kuiper belt ring wrapped in the pink orbits of the scattered disc"/></td>
   </tr>
   <tr>
-    <td align="center"><sub>Out to Neptune and the Kuiper belt</sub></td>
     <td align="center"><sub>Saturn's moons and the detail panel</sub></td>
+    <td align="center"><sub>Out to the Scattered Disc</sub></td>
   </tr>
 </table>
 
-## 🌌 Laniakea Field Guide
+## 🔭 Laniakea Field Guide
 
 A field guide to our home supercluster, built on my paper
 **[A Hierarchical Framework for Organizing the Laniakea Basin](https://aperturecosmology.com/laniakea/downloads/Bianchini_2026_Laniakea_Framework.pdf)**
