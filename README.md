@@ -81,7 +81,7 @@ light-years, with an interactive chart and a dedicated page for every superclust
   </tr>
   <tr>
     <td width="50%"><a href="https://aperturecosmology.com/laniakea/virgo/#local-sheet"><img src="assets/lfg-local-sheet.jpg" alt="The Local Sheet section of the Virgo Supercluster page, with the Andromeda Galaxy and the start of the article"/></a></td>
-    <td width="50%"><a href="https://aperturecosmology.com/laniakea/"><img src="assets/lfg-gallery.jpg" alt="The Field Guide Gallery, a grid of galaxy images grouped by supercluster"/></a></td>
+    <td width="50%"><a href="https://aperturecosmology.com/laniakea/#gallery"><img src="assets/lfg-gallery.jpg" alt="The Field Guide Gallery, a grid of galaxy images grouped by supercluster"/></a></td>
   </tr>
   <tr>
     <td align="center"><sub>Local Sheet, home of the Milky Way</sub></td>
