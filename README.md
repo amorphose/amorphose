@@ -10,7 +10,9 @@
 
 I build interactive maps of the universe, the small tools that keep them current, and a
 philosophical framework that tries to explain who is looking. Most of it lives at
-**[aperturecosmology.com](https://aperturecosmology.com/)**.
+**[aperturecosmology.com](https://aperturecosmology.com/)**. My day job is medical billing, where I
+write tools like [OWCP AutoFill](#-owcp-autofill) to cut down on manual claim entry. I'm always
+open to collaborating, especially on projects that stretch my skills in directing AI.
 
 ---
 
