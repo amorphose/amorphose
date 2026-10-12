@@ -135,14 +135,14 @@ Explorer. Most new finds now come from the Vera C. Rubin Observatory. This is th
 | **2025 UP145** | ⚪ watched | ~180 | 5.45 | 56.0 | 2025-10-29 | Magellan-Baade Telescope |
 | **2025 NY190** | ⚪ watched | ~170 | 5.57 | 50.8 | 2025-07-02 | Rubin Observatory |
 | **2025 OF345** | ⚪ watched | ~167 | 5.61 | 43.0 | 2025-07-18 | Rubin Observatory |
-| **2025 MJ352** | ⚪ watched | ~165 | 5.64 | 46.1 | 2025-06-21 | Rubin Observatory |
 | **2025 MK192** | ⚪ watched | ~165 | 5.64 | 63.2 | 2025-06-21 | Rubin Observatory |
+| **2025 MJ352** | ⚪ watched | ~165 | 5.64 | 46.1 | 2025-06-21 | Rubin Observatory |
 | **2025 NE189** | ⚪ watched | ~163 | 5.66 | 134.1 | 2025-07-02 | Rubin Observatory |
 | **2025 OT342** | ⚪ watched | ~155 | 5.77 | 47.0 | 2025-07-18 | Rubin Observatory |
 | **2025 NK190** | ⚪ watched | ~154 | 5.79 | 46.1 | 2025-07-02 | Rubin Observatory |
 | **2015 HT198** | ⚪ watched | ~153 | 5.8 | 43.5 | 2015-04-18 | DECam, Cerro Tololo |
-| **2025 NX193** | ⚪ watched | ~152 | 5.82 | 64.4 | 2025-07-01 | Rubin Observatory |
 | **2025 MA352** | ⚪ watched | ~152 | 5.82 | 52.3 | 2025-06-21 | Rubin Observatory |
+| **2025 NX193** | ⚪ watched | ~152 | 5.82 | 64.4 | 2025-07-01 | Rubin Observatory |
 | **2025 MB350** | ⚪ watched | ~151 | 5.83 | 45.4 | 2025-06-21 | Rubin Observatory |
 
 </div>
