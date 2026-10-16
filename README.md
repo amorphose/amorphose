@@ -148,7 +148,7 @@ Explorer. Most new finds now come from the Vera C. Rubin Observatory. This is th
 </div>
 </details>
 
-<sub>19 objects tracked, 16 of them discovered by Rubin Observatory. ~ marks a size estimated from brightness (H) at albedo 0.09. Last change 11 Oct 2026.</sub>
+<sub>19 objects tracked, 16 of them discovered by Rubin Observatory. ~ marks a size estimated from brightness (H) at albedo 0.09. Last change 16 Oct 2026.</sub>
 <!-- watchlist:end -->
 
 <p align="center">
