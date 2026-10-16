@@ -116,34 +116,34 @@ Explorer. Most new finds now come from the Vera C. Rubin Observatory. This is th
 
 | Object | Status | Radius (km) | H | a (AU) | Found | By |
 |---|---|--:|--:|--:|---|---|
-| **2025 NE552** | 🟡 likely | ~316 | 4.23 | 214.0 | 2025-07-04 | Rubin Observatory |
-| **2025 MT387** | 🟡 likely | ~270 | 4.57 | 70.4 | 2025-06-21 | Rubin Observatory |
-| **2025 EA16** | 🟡 likely | ~270 | 4.57 | 40.6 | 2025-03-10 | DECam, Cerro Tololo |
+| **2025 NE552** | 🟡 likely | ~302 | 4.33 | 53.5 | 2025-07-04 | Rubin Observatory |
+| **2025 EA16** | 🟡 likely | ~273 | 4.55 | 40.6 | 2025-03-10 | DECam, Cerro Tololo |
 | **2025 MZ348** | 🟡 likely | ~258 | 4.67 | 47.8 | 2025-06-30 | Rubin Observatory |
-| **2025 ME352** | 🟡 likely | ~222 | 5.0 | 45.5 | 2025-06-25 | Rubin Observatory |
-| **2025 MB349** | 🟡 likely | ~197 | 5.25 | 48.5 | 2025-06-21 | Rubin Observatory |
-| **2025 MD350** | 🟡 likely | ~192 | 5.31 | 61.9 | 2025-06-21 | Rubin Observatory |
+| **2025 MT387** | 🟡 likely | ~231 | 4.91 | 54.9 | 2025-06-21 | Rubin Observatory |
+| **2025 MB349** | 🟡 likely | ~201 | 5.21 | 50.2 | 2025-06-21 | Rubin Observatory |
 
 </div>
 
-<details><summary>12 more on the watchlist</summary>
+<details><summary>14 more on the watchlist</summary>
 
 <div align="center">
 
 | Object | Status | Radius (km) | H | a (AU) | Found | By |
 |---|---|--:|--:|--:|---|---|
+| **2025 MD350** | ⚪ watched | ~183 | 5.41 | 61.1 | 2025-06-21 | Rubin Observatory |
 | **2025 UP145** | ⚪ watched | ~180 | 5.45 | 56.0 | 2025-10-29 | Magellan-Baade Telescope |
-| **2025 NY190** | ⚪ watched | ~170 | 5.57 | 50.8 | 2025-07-02 | Rubin Observatory |
-| **2025 OF345** | ⚪ watched | ~167 | 5.61 | 43.0 | 2025-07-18 | Rubin Observatory |
-| **2025 MK192** | ⚪ watched | ~165 | 5.64 | 63.2 | 2025-06-21 | Rubin Observatory |
+| **2025 NY190** | ⚪ watched | ~180 | 5.45 | 47.7 | 2025-07-02 | Rubin Observatory |
+| **2025 OF345** | ⚪ watched | ~166 | 5.62 | 43.0 | 2025-07-18 | Rubin Observatory |
 | **2025 MJ352** | ⚪ watched | ~165 | 5.64 | 46.1 | 2025-06-21 | Rubin Observatory |
-| **2025 NE189** | ⚪ watched | ~163 | 5.66 | 134.1 | 2025-07-02 | Rubin Observatory |
-| **2025 OT342** | ⚪ watched | ~155 | 5.77 | 47.0 | 2025-07-18 | Rubin Observatory |
-| **2025 NK190** | ⚪ watched | ~154 | 5.79 | 46.1 | 2025-07-02 | Rubin Observatory |
+| **2025 NE189** | ⚪ watched | ~157 | 5.75 | 138.5 | 2025-07-02 | Rubin Observatory |
+| **2025 NK190** | ⚪ watched | ~155 | 5.77 | 46.2 | 2025-07-02 | Rubin Observatory |
 | **2015 HT198** | ⚪ watched | ~153 | 5.8 | 43.5 | 2015-04-18 | DECam, Cerro Tololo |
-| **2025 MA352** | ⚪ watched | ~152 | 5.82 | 52.3 | 2025-06-21 | Rubin Observatory |
 | **2025 NX193** | ⚪ watched | ~152 | 5.82 | 64.4 | 2025-07-01 | Rubin Observatory |
-| **2025 MB350** | ⚪ watched | ~151 | 5.83 | 45.4 | 2025-06-21 | Rubin Observatory |
+| **2025 OT342** | ⚪ watched | ~149 | 5.86 | 47.0 | 2025-07-18 | Rubin Observatory |
+| **2025 MA352** | ⚪ watched | ~148 | 5.87 | 52.5 | 2025-06-21 | Rubin Observatory |
+| **2025 MK192** | ⚪ watched | ~147 | 5.89 | 61.6 | 2025-06-21 | Rubin Observatory |
+| **2025 MB350** | ⚪ watched | ~146 | 5.9 | 45.5 | 2025-06-21 | Rubin Observatory |
+| **2025 ME352** | ⚪ watched | ~102 | 6.69 | 53.9 | 2025-06-25 | Rubin Observatory |
 
 </div>
 </details>
