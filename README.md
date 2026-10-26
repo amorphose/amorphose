@@ -120,6 +120,7 @@ Explorer. Most new finds now come from the Vera C. Rubin Observatory. This is th
 | **2025 EA16** | 🟡 likely | ~273 | 4.55 | 40.6 | 2025-03-10 | DECam, Cerro Tololo |
 | **2025 MZ348** | 🟡 likely | ~258 | 4.67 | 47.8 | 2025-06-30 | Rubin Observatory |
 | **2025 MT387** | 🟡 likely | ~231 | 4.91 | 54.9 | 2025-06-21 | Rubin Observatory |
+| **2015 HB195** | 🟡 likely | ~210 | 5.12 | 67.2 | 2015-04-25 | DECam |
 | **2025 MB349** | 🟡 likely | ~201 | 5.21 | 50.2 | 2025-06-21 | Rubin Observatory |
 
 </div>
@@ -148,7 +149,7 @@ Explorer. Most new finds now come from the Vera C. Rubin Observatory. This is th
 </div>
 </details>
 
-<sub>19 objects tracked, 16 of them discovered by Rubin Observatory. ~ marks a size estimated from brightness (H) at albedo 0.09. Last change 16 Oct 2026.</sub>
+<sub>20 objects tracked, 16 of them discovered by Rubin Observatory. ~ marks a size estimated from brightness (H) at albedo 0.09. Last change 26 Oct 2026.</sub>
 <!-- watchlist:end -->
 
 <p align="center">
