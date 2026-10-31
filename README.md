@@ -116,7 +116,7 @@ Explorer. Most new finds now come from the Vera C. Rubin Observatory. This is th
 
 | Object | Status | Radius (km) | H | a (AU) | Found | By |
 |---|---|--:|--:|--:|---|---|
-| **2026 ED138** | 🟡 likely | ~575 | 2.93 | 42.9 | 2026-03-04 | Rubin Observatory |
+| **2026 ED138** | 🟡 likely | ~610 | 2.8 | 42.9 | 2026-03-04 | Rubin Observatory |
 | **2026 EE138** | 🟡 likely | ~358 | 3.96 | 71.1 | 2026-03-09 | Rubin Observatory |
 | **2025 NE552** | 🟡 likely | ~302 | 4.33 | 53.5 | 2025-07-04 | Rubin Observatory |
 | **2025 EA16** | 🟡 likely | ~273 | 4.55 | 40.6 | 2025-03-10 | DECam, Cerro Tololo |
@@ -151,7 +151,7 @@ Explorer. Most new finds now come from the Vera C. Rubin Observatory. This is th
 </div>
 </details>
 
-<sub>22 objects tracked, 18 of them discovered by Rubin Observatory. ~ marks a size estimated from brightness (H) at albedo 0.09. Last change 28 Oct 2026.</sub>
+<sub>22 objects tracked, 18 of them discovered by Rubin Observatory. ~ marks a size estimated from brightness (H) at albedo 0.09. Last change 31 Oct 2026.</sub>
 <!-- watchlist:end -->
 
 <p align="center">
